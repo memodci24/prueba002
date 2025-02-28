@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Sumador
 
 ## How to test
 
-Explain how to use your project
+Entradas A, B y Cin. Salidas S y Cout
 
 ## External hardware
 
